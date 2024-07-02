@@ -1,15 +1,6 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Abby Hatcher (character) | Abby Hatcher Wiki | FANDOM</title>
-<link rel="stylesheet" href="https://pages-themes.github.io/cayman/assets/css/style.css">
-<link rel="shortcut-icon" href="https://www.fandom.com/favicon.ico">
-</head>
-<body style="font-family: Helvetica, sans-serif;">
-<main id="content" class="main-content" role="main">
+<div style="font-family: Helvetica, sans-serif;">
 <h1>Abby Hatcher (character)</h1>
-<img align="right" src="https://static.wikia.nocookie.net/abby-hatcher/images/5/5c/Abby_Hatcher_picture.png" width="250px">
+<img align="right" src="https://static.wikia.nocookie.net/abby-hatcher/images/5/5c/Abby_Hatcher_picture.png">
 <p><b>Abby Hatcher</b> (IPA: /ˈæbi ˈhætʃər/) is the eponymous main character of the series of the same name.</p>
 <p>She and her parents moved into a hotel in the first episode, and since being there have gotten to know the various Fuzzly residents and human guests.</p>
 <p>She is the lead singer of the Blossom Band.</p>
@@ -24,6 +15,4 @@
 <li><strong>Likes</strong>: Helping Fuzzlies</li>
 <li><strong>Dislikes</strong>: Trouble</li>
 </ul>
-</main>
-</body>
-</html>
+</div>
